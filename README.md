@@ -1,5 +1,4 @@
-# Vehicle-Sale-Data-warehouse-and-Visualization-Project
-# 🚗 Vehicle Sales Dashboard (Data Warehouse Project)
+# 🚗 Vehicle-Sale-Data-warehouse-and-Visualization-Project
 
 This project analyzes over 460,000 vehicle sales records across the United States using a full data warehousing pipeline — from ETL to dashboard visualization.
 
@@ -54,15 +53,4 @@ Includes:
 - Newer models tend to have higher average selling prices
 
 ---
-
-## 🎯 Outcome
-
-✅ Scored **30/30** on the final exam — project validated by professor  
-✅ Demonstrated real-world BI skills, combining ETL, warehousing, and storytelling
-
----
-
-## 💬 Acknowledgments
-
-Special thanks to my course instructor and the AI assistant that helped guide my analysis!
 
