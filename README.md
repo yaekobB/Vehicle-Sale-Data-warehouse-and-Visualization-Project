@@ -41,7 +41,7 @@ Includes:
 - OLAP-oriented dashboards with drill-down, slice & dice
 - LLM-assisted insights using LLaMA-3
 
-📄 See [`report.pdf`](./report.pdf)
+📄 See [`report.pdf`](./data_warehouse_vehicle_sales_final_report.pdf)
 
 ---
 
