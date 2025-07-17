@@ -1,6 +1,6 @@
-# 🚗 Vehicle-Sale-Data-warehouse-and-Visualization-Project
+# 🚗 Vehicle-Sales-Data-warehouse-and-Visualization-Project
 
-This project analyzes over 460,000 vehicle sales records across the United States using a full data warehousing pipeline — from ETL to dashboard visualization.
+This project analyzes over 460,000 vehicle sales records across the United States using a full data warehousing pipeline from ETL to dashboard visualization.
 
 ## 🧰 Tools & Technologies
 
