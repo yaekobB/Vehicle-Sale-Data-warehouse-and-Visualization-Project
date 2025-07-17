@@ -17,7 +17,7 @@ Three interactive dashboards were built using Tableau:
 2. **Pricing & Value Insights**
 3. **Market Players & Buyer Preferences**
 
-👉 [View Dashboards on Tableau Public](https://public.tableau.com/app/profile/yaekob/...)
+👉 [View Dashboards on Tableau Public](https://public.tableau.com/app/profile/yaekob.beyene.yowhanns/vizzes)
 
 ## 🧪 Dataset
 
